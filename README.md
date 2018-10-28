@@ -1,5 +1,5 @@
 
-# MLND - CUSTOMER CHURN ANALYSIS FOR A TELECOMMUNICATION COMPANY
+# CUSTOMER CHURN ANALYSIS FOR A TELECOMMUNICATION COMPANY
 
 Supervised algorithms were used in this project to predict customer churning in a telecommunication company
 
@@ -41,5 +41,3 @@ categorical type of information in this dataset
 - proposal.pdf
 - README
 
-## Proposal Link
-https://review.udacity.com/#!/reviews/1480616
