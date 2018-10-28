@@ -34,10 +34,5 @@ categorical type of information in this dataset
 - sklearn.utils
 - sklearn.ensemble
 
-## Submitted Files
-- capston.ipynb
-- capston.pdf
-- report.pdf
-- proposal.pdf
-- README
+
 
